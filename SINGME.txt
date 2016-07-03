@@ -1,0 +1,49 @@
+The Drupal issue queues
+(To the tune of Hotel California, by Larry Garfield)
+
+On a warm summer evening, cool wind in my hair
+Warm glow from my laptop, X X X X X X
+But then there in my browser, I saw a int'resting sight
+T'was a CMS made with PHP
+I had to check out this the site
+There they sat in the channel
+Helping newbies to code
+I was thinking to myself,
+'This thing called Drupal is all full of nodes?'
+Then she sent me a PM and she showed me the way
+There were people there in IRC,
+I thought I saw them say...
+
+'Welcome to the Drupal issue queues'
+'Such a lovely place' (such a lovely place)
+'Includes Cathy Theys'
+'There's plenty of threads in the Drupal issue queues'
+'Any time of night' (any time of night)
+'You can code it right'
+
+The code was certainly twisted
+It was all based on arrays
+She's got a lot of pretty, pretty boys, she calls friends
+How they dance at the conference, sweet geeky sweat.
+Some dance to remember, some dance to forget
+So I pinged the Committers, 'Please review my patch'
+Dries said, 'This affects performance you need to go talk to catch'
+And still those voices are calling from far away
+Wake you up in the middle of the night
+Just to hear them say...
+
+'Welcome to the Drupal issue queues'
+'Such a lovely patch' (such a lovely patch)
+'Got reviewed by catch'
+They living it up in the Drupal issue queues
+What a nice surprise! (what a nice surprise! )
+Bring your alibis
+
+Mirrors on the ceiling, pink champagne on ice
+And she said 'We are all just prisoners here, of our own device'
+And in the master's chambers, they gathered for the feast
+They stab it with their steely knives, but they just can't pass the 'bot
+Last thing I remember, I was running for the door
+I had to find the passage back to the place I was before
+'Relax' said the night man, 'We are programed to receive'
+'You can reroll any time you like, but you can never leave'
